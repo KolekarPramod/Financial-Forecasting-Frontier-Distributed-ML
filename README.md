@@ -1,5 +1,4 @@
-# Define the updated content of the README.md file in the requested format
-updated_readme_content = """
+
 <h1 align="center">Financial Forecasting Frontier with Distributed ML</h1>
 <h3 align="center">Capstone Project - Banking Data Analysis and Real-Time Model Deployment</h3>
 
