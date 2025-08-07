@@ -20,11 +20,11 @@ This project explores distributed machine learning and real-time analytics in a 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🛠️ Technologies Used:
-- **Distributed Computing:** Apache Spark (PySpark)
+- **Distributed Computing:** Apache Spark (PySpark), Hadoop, Hive
 - **Machine Learning:** Random Forest (MLlib)
 - **Streaming:** PySpark Structured Streaming
 - **Visualization:** Matplotlib, Pandas
-- **Platform:** Google Colab
+- **Platform:** Google Colab, GCP (Google Cloud Platform)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
